@@ -19,7 +19,7 @@ def create_wather_data(df):
 
 
 # Load all_data.csv
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/NikolausSatria/submission/main/dashboard/all_data.csv")
 
 
 
